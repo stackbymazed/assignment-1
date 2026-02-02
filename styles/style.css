@@ -2,7 +2,6 @@
 *{
     margin: 0px;
     padding: 5px 20px;
-
 }
 .hide{
     display: none;
@@ -129,12 +128,6 @@ nav button{
     border-radius: 15px;
    
 }
-/* .name{
-    margin-left: -18px;
-    text-decoration:none;
-    text-decoration-line: none;
-
-} */
 /* style Recent-News */
 .Recent-News{
     margin: 30px auto;
@@ -189,8 +182,6 @@ nav button{
     gap: 15px;
     justify-content: space-around;
     padding: 20px 100px;
-
- 
 }
 .input-taka{
     margin: 20px auto;
